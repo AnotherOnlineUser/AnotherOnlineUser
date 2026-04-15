@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 Hi, I'm Dishaa Singh — a passionate MERN developer diving into machine learning. Exploring the future of Web3 in my free time.<br> I'm also passionate about staying ahead in tech by exploring new fields and continuously building on my skills.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dishaa-singh/) 
